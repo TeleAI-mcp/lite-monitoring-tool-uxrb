@@ -1,2 +1,3 @@
-# lite-monitoring-tool-uxrb
-Automated issue comment bot repository
+# Lite Monitoring Tool Uxrb
+
+Automated issue comment bot repository.
